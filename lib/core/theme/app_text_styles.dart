@@ -75,4 +75,16 @@ class AppTextStyles {
     fontWeight: FontWeight.w800,
     color: AppColors.textMuted,
   );
+
+  static const TextStyle cardTitle = TextStyle(
+    fontSize: 11,
+    fontWeight: FontWeight.normal,
+    color: AppColors.textCardTitle,
+  );
+
+  static const TextStyle cardSubtitle = TextStyle(
+    fontSize: 12,
+    fontWeight: FontWeight.w600,
+    color: AppColors.textCardSubtitle,
+  );
 }
