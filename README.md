@@ -1,16 +1,33 @@
 # plant_shop
 
-Plant Marketplace
+PlantShop : Plant Marketplace 
 
-## Getting Started
+## Tech Stack
+- Flutter 3.38.5 (stable)
+- GetX (State Management)
+- Clean Architecture (lightweight)
 
-This project is a starting point for a Flutter application.
+## Architecture
+- GetX Controllers for state
+- IndexedStack for bottom navigation state preservation
+- Stateless UI components
 
-A few resources to get you started if this is your first Flutter project:
+## Features
+- Bottom navigation with 5 tabs
+- Scrollable Home page
+- Mall page with search & empty state
+- Responsive spacing for small screens
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Notes
+- No API integration (static assets only)
+- Designed for Android & iOS compatibility
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Git Workflow (Simplified GitFlow)
+
+This project follows a simplified GitFlow suitable for small-to-medium Flutter projects.
+
+Branches
+- main → stable, runnable version
+- develop → integration branch
+- feature/* → isolated feature development
+- chore/* → setup & cleanup tasks
