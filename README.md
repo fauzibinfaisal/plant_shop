@@ -2,6 +2,12 @@
 
 PlantShop : Plant Marketplace 
 
+## Screenshot
+<img width="250" height="700" alt="Simulator Screenshot - iPhone 15 - 2025-12-26 at 10 56 24" src="https://github.com/user-attachments/assets/1768d476-e494-4ab4-acc4-8f259e21f9b9" />
+<img width="250" height="700" alt="Simulator Screenshot - iPhone 15 - 2025-12-26 at 10 56 46" src="https://github.com/user-attachments/assets/613bb3c5-c5e4-4ed8-823d-97b4dc801a03" />
+<img width="250" height="700" alt="Simulator Screenshot - iPhone 15 - 2025-12-26 at 10 57 19" src="https://github.com/user-attachments/assets/3e609d5d-b1ab-4270-a0fa-219a5dcb3760" />
+
+
 ## Tech Stack
 - Flutter 3.38.5 (stable)
 - GetX (State Management)
